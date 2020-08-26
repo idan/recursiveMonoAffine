@@ -4,6 +4,10 @@ This is my preferred build of [ArrowType's Recurive](https://recursive.design) f
 
 Primarily, I wanted a lighter base weight (300 & 600 versus 400 & 700), and more specific control over the `slnt` and `CASL` to make the italics feel like a [true italic](https://en.wikipedia.org/wiki/Italic_type) (versus an [oblique](https://en.wikipedia.org/wiki/Oblique_type)) but with a toned-down casualness.
 
+![Preview of the fonts in a code editor](preview_editor.png)
+
+![Preview of the fonts in FontGoggles](preview_fontgoggles.png)
+
 Here's the actual definitions for each of the axes:
 
 ```
