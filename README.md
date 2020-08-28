@@ -1,6 +1,6 @@
 # Recursive Mono Affine
 
-This is my preferred build of [ArrowType's Recurive](https://recursive.design) for coding. The [four existing builds](https://github.com/arrowtype/recursive/blob/main/src/build-scripts/make-release/data/release-notes--code.md#packages) (Linear, Casual, Semicasual, and Duotone) were nice but not _just right_, y'know?
+This is my preferred build of [ArrowType's Recursive](https://recursive.design) for coding. The [four existing builds](https://github.com/arrowtype/recursive/blob/main/src/build-scripts/make-release/data/release-notes--code.md#packages) (Linear, Casual, Semicasual, and Duotone) were nice but not _just right_, y'know?
 
 Primarily, I wanted a lighter base weight (300 & 600 versus 400 & 700), and more specific control over the `slnt` and `CASL` to make the italics feel like a [true italic](https://en.wikipedia.org/wiki/Italic_type) (versus an [oblique](https://en.wikipedia.org/wiki/Oblique_type)) but with a toned-down casualness.
 
